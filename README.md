@@ -96,6 +96,19 @@ to be valid, consistent and void of null values.
 However unwanted and irrelevant columns such as the category_name column where removed. And the data type of the date was properly 
 formatted.
 
-Below are screen shots of power Bi cleaning using the power query
+Below screen shot of power cleaning with power query.
+
+![](powerQuery.png)
+
+
+
+## DATA VISUALZATION
+
+A power Bi dashboard was designed to visualize our findings from the dataset 
+provided..
+Below is a screenshot of the dashboard for the executives.
+
+![](festiveBuys_Dashboard.png)
+
 
 
