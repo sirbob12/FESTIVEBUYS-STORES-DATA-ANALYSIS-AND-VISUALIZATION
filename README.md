@@ -1,4 +1,4 @@
-# FESTIVEBUYS-STORES-DATA-ANALYSIS-AND-VISUALIZATION
+# FESTIVEBUYS-STORES-ANALYSIS
 ## Introduction:
 
 This project aims to show my data analysis and visualization skills using SQL, 
@@ -90,25 +90,45 @@ View data source [Here](https://kaggle.com)
 
 ## DATA TRANSFORMATION
 
-Dataset was imported into power Bi from SQL.
-Power Query was used to perform data cleaning. After properly cross-checking of all the columns they where found
-to be valid, consistent and void of null values.
-However unwanted and irrelevant columns such as the category_name column where removed. And the data type of the date was properly 
+The dataset was imported into Power Bi from SQL.
+Power Query was used to perform data cleaning. After properly cross-checking all the columns they were found
+to be valid, complete, and void of null values.
+However unwanted and irrelevant columns such as the category_name column were removed. The data type of the date was properly 
 formatted.
 
-Below screen shot of power cleaning with power query.
+Below screenshot of power cleaning with power query.
 
 ![](powerQuery.png)
 
 
 
-## DATA VISUALZATION
 
-A power Bi dashboard was designed to visualize our findings from the dataset 
-provided..
+
+## DATA VISUALIZATION
+
+A power BI dashboard was designed to visualize our findings from the dataset 
+provided.
 Below is a screenshot of the dashboard for the executives.
 
 ![](festiveBuys_Dashboard.png)
+
+View Dashboard [Here](BikeStore Visualize.pbix)
+
+
+
+## CONCLUSIONS AND RECOMMENDATIONS.
+
+1. The state of New York happens to generate the highest revenue for the company.
+   Hence it's the most appropriate to locate the new office headquarters.
+
+2. Marcelen Boyer is the salesman with the highest sales in terms of revenue raked in.
+   Hence he should be considered for the sales manager position at the new office headquarters.
+
+3. Pamella Newman is our top customer and should be recognized, awarded, and given company incentives such as 
+   a car, a vacation, and discounts on subsequent purchases.
+
+
+
 
 
 
